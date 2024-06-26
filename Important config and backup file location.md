@@ -12,3 +12,7 @@ $HOME/slinky/config/core/oracle.json
 ```
 ~/.initia/config/priv_validator_key.json
 ```
+you need restore the file to: 
+```
+/root/.initia/config/priv_validator_key.json
+```
